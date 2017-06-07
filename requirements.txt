@@ -4,6 +4,7 @@ async-timeout==1.2.1
 brewer2mpl==1.4.1
 chardet==3.0.2
 cycler==0.10.0
+express==1.0
 ggplot==0.11.5
 matplotlib==2.0.2
 multidict==2.1.5
